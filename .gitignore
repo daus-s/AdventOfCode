@@ -3,3 +3,6 @@
 
 # Recursively ignore all files matching ".txt"
 **/*.txt
+
+# Recursively ignore all files matching ".txt"
+**/*.class
